@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="marginTopBase">30dp</dimen>
+    <dimen name="paddingBase">30dp</dimen>
+    <dimen name="LetraBase">20dp</dimen>
+</resources>
